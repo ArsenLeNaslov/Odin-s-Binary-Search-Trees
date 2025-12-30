@@ -8,4 +8,4 @@ Additional utilities include computing node height and depth, checking whether t
 
 A prettyPrint helper is included for visualizing the structure, and the driver script demonstrates the full workflow: building a tree, verifying balance, unbalancing it through inserts, and restoring balance with rebalance().
 
-Referencing Odin's Project [Binary Search Trees](https://www.theodinproject.com/lessons/javascript-binary-search-trees)
+Referencing Odin's Project: [Binary Search Trees](https://www.theodinproject.com/lessons/javascript-binary-search-trees)
